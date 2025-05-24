@@ -363,5 +363,6 @@ form {
 ## OUTPUT
 ![alt text](<Screenshot (32).png>)
 ![alt text](<Screenshot (31).png>)
+![alt text](<Screenshot (33).png>)
 ## RESULT
 A fully functional React-based Expense Tracker application was successfully developed. 
